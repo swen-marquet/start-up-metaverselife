@@ -1,0 +1,10 @@
+.div-center{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0,1);
+    padding: 60px;
+    width: 400px;
+    margin: 30px auto;
+    box-shadow: 0 10px 30px rgba(233, 229, 229, 0.733);
+    border-radius: 30px;
+}
+

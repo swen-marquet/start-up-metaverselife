@@ -1,0 +1,14 @@
+.banner{
+    background-image: url(../../images/metaverse.jpg);
+    width: 100%;
+    padding: 300px 50px;
+    border-radius: 0%;
+}
+
+.banner h1{
+    font-size: 75px;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+    transform: skew(-18deg) rotate(-6deg);
+    background-image: linear-gradient(to right, #c1309f, #1d75b0);
+}
